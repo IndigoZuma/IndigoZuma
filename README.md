@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,postgresql,git,github,docker,vscode,rust,kotlin" />
 </p>
+## Game Dev
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,godot,blender" />
+</p>
 
 <!--
 **IndigoZuma/IndigoZuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
