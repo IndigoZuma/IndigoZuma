@@ -1,4 +1,7 @@
-## Hi there 👋
+## Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,cpp,cs,rust,kotlin,vscode,git,github" />
+</p>
 
 <!--
 **IndigoZuma/IndigoZuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
