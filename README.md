@@ -1,7 +1,7 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql,git,github,docker,vscode,rust,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql,git,github,docker,vscode,rust,kotlin" />
 </p>
 
 <!--
