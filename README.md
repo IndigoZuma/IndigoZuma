@@ -1,8 +1,9 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,postgresql,git,github,docker,vscode,rust,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,bootstrap,postgresql,git,github,docker,vscode,kotlin" />
 </p>
+
 ## Game Dev
 
 <p align="center">
